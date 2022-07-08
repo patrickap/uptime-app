@@ -1,2 +1,2 @@
-# uptime
+# uptime-app
 time tracker
